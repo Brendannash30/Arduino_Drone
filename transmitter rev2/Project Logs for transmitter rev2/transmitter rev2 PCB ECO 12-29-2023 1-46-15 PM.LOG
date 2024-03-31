@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator= NewDesignator=B?
+Change Component Designator: OldDesignator=joystick_L NewDesignator=joystick_L?
+Change Component Designator: OldDesignator=joystick_R NewDesignator=joystick_R?
+Change Component Designator: OldDesignator=NRF24 NewDesignator=NRF?
+Change Component Designator: OldDesignator=V IN NewDesignator=J?
+Added Pin To Net: NetName=GND Pin=joystick_L?-S1
+Added Pin To Net: NetName=GND Pin=joystick_L?-S2
+Added Pin To Net: NetName=GND Pin=joystick_L?-S3
+Added Pin To Net: NetName=GND Pin=joystick_L?-S4
+Added Pin To Net: NetName=GND Pin=joystick_R?-S1
+Added Pin To Net: NetName=GND Pin=joystick_R?-S2
+Added Pin To Net: NetName=GND Pin=joystick_R?-S3
+Added Pin To Net: NetName=GND Pin=joystick_R?-S4
+Added Room: Name=transmitter rev2

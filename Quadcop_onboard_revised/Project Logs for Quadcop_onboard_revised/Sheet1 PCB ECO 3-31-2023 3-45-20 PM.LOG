@@ -1,0 +1,133 @@
+Added Component: Designator=12vin(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Arduino FC?(ABX00053)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/abx00053/arduino-corporation?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.arduino.cc/assets/ABX00053-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "782-ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Arduino/ABX00053?qs=iLbezkQI%252Bsj092HEuR%252Bsvg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Arduino Rx?(ABX00053)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/abx00053/arduino-corporation?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.arduino.cc/assets/ABX00053-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "782-ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Arduino/ABX00053?qs=iLbezkQI%252Bsj092HEuR%252Bsvg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B?(DIP760W50P254L976H406Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-112/DSAP0044997.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL072CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BL?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BR?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=FL?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=FR?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MPU_?(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NRF?(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=Arduino FC?-27
+Added Pin To Net: NetName=5V Pin=MPU_?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=3.3V Pin=B?-7
+Added Pin To Net: NetName=3.3V Pin=NRF?-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=Analog4 Pin=Arduino FC?-23
+Added Pin To Net: NetName=Analog4 Pin=MPU_?-4
+Added Net: Name=Analog4
+Added Pin To Net: NetName=Analog5 Pin=Arduino FC?-24
+Added Pin To Net: NetName=Analog5 Pin=MPU_?-3
+Added Net: Name=Analog5
+Added Pin To Net: NetName=CE Pin=Arduino Rx?-12
+Added Pin To Net: NetName=CE Pin=NRF?-4
+Added Net: Name=CE
+Added Pin To Net: NetName=CNS Pin=Arduino Rx?-13
+Added Pin To Net: NetName=CNS Pin=NRF?-6
+Added Net: Name=CNS
+Added Pin To Net: NetName=GND Pin=12vin-3
+Added Pin To Net: NetName=GND Pin=Arduino FC?-29
+Added Pin To Net: NetName=GND Pin=Arduino Rx?-4
+Added Pin To Net: NetName=GND Pin=Arduino Rx?-29
+Added Pin To Net: NetName=GND Pin=B?-4
+Added Pin To Net: NetName=GND Pin=MPU_?-2
+Added Pin To Net: NetName=GND Pin=NRF?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=M1 Pin=Arduino FC?-6
+Added Pin To Net: NetName=M1 Pin=FL?-1
+Added Net: Name=M1
+Added Pin To Net: NetName=M2 Pin=Arduino FC?-12
+Added Pin To Net: NetName=M2 Pin=BR?-1
+Added Net: Name=M2
+Added Pin To Net: NetName=M3 Pin=Arduino FC?-13
+Added Pin To Net: NetName=M3 Pin=FR?-1
+Added Net: Name=M3
+Added Pin To Net: NetName=M4 Pin=Arduino FC?-14
+Added Pin To Net: NetName=M4 Pin=BL?-1
+Added Net: Name=M4
+Added Pin To Net: NetName=MISO Pin=Arduino Rx?-15
+Added Pin To Net: NetName=MISO Pin=NRF?-8
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Arduino Rx?-14
+Added Pin To Net: NetName=MOSI Pin=NRF?-7
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net12vin_1 Pin=12vin-1
+Added Pin To Net: NetName=Net12vin_1 Pin=B?-8
+Added Net: Name=Net12vin_1
+Added Pin To Net: NetName=Net_2 Pin=B?-5
+Added Net: Name=Net_2
+Added Pin To Net: NetName=NetArduino FC?_4 Pin=Arduino FC?-4
+Added Pin To Net: NetName=NetArduino FC?_4 Pin=BL?-3
+Added Pin To Net: NetName=NetArduino FC?_4 Pin=BR?-3
+Added Pin To Net: NetName=NetArduino FC?_4 Pin=FL?-3
+Added Pin To Net: NetName=NetArduino FC?_4 Pin=FR?-3
+Added Net: Name=NetArduino FC?_4
+Added Pin To Net: NetName=NetArduino FC?_30 Pin=Arduino FC?-30
+Added Pin To Net: NetName=NetArduino FC?_30 Pin=Arduino Rx?-30
+Added Pin To Net: NetName=NetArduino FC?_30 Pin=B?-1
+Added Net: Name=NetArduino FC?_30
+Added Pin To Net: NetName=NetB?_2 Pin=B?-2
+Added Net: Name=NetB?_2
+Added Pin To Net: NetName=NetB?_3 Pin=B?-3
+Added Net: Name=NetB?_3
+Added Pin To Net: NetName=NetB?_6 Pin=B?-6
+Added Net: Name=NetB?_6
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PPM Pin=Arduino FC?-5
+Added Pin To Net: NetName=PPM Pin=Arduino Rx?-5
+Added Net: Name=PPM
+Added Pin To Net: NetName=SCK Pin=Arduino Rx?-16
+Added Pin To Net: NetName=SCK Pin=NRF?-3
+Added Net: Name=SCK
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

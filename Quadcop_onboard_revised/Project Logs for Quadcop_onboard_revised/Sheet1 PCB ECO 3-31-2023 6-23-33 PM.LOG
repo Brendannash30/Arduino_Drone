@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator= NewDesignator=TLV272
+Added Pin To Net: NetName=GND Pin=Arduino FC?-4
+Added Pin To Net: NetName=GND Pin=BL?-3
+Added Pin To Net: NetName=GND Pin=BR?-3
+Added Pin To Net: NetName=GND Pin=FL?-3
+Added Pin To Net: NetName=GND Pin=FR?-3
+Added Room: Name=Sheet1

@@ -1,0 +1,19 @@
+Added Component: Designator=TLV272(DIP760W50P254L976H406Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-112/DSAP0044997.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL072CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetArduino FC?_30 Pin=TLV272-1
+Added Pin To Net: NetName=NetR5_2 Pin=TLV272-2
+Added Pin To Net: NetName=NetR9_2 Pin=TLV272-3
+Added Pin To Net: NetName=GND Pin=TLV272-4
+Added Pin To Net: NetName=NetR7_2 Pin=TLV272-5
+Added Pin To Net: NetName=NetR3_2 Pin=TLV272-6
+Added Pin To Net: NetName=3.3V Pin=TLV272-7
+Added Pin To Net: NetName=Net12vin_1 Pin=TLV272-8
+Added Member To Class: ClassName=Sheet1 Member=Component TLV272 TL072CP
+Added Room: Name=Sheet1

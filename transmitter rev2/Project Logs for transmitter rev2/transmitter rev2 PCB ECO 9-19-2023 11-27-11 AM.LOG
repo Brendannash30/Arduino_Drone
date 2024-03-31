@@ -1,0 +1,85 @@
+Removed Member From Class: ClassName=transmitter rev2 Member=
+Change Component Designator: OldDesignator= NewDesignator=B?
+Added Component: Designator=joystick_L?(XDCR_COM-09032)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "COM-09032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=joystick_R?(XDCR_COM-09032)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "COM-09032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NRF?(HDR2X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Power arduino?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=V_reg_int?(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=V_reg_outt?(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B?-4
+Added Pin To Net: NetName=hover Pin=B?-5
+Added Pin To Net: NetName=T_CE Pin=B?-12
+Added Pin To Net: NetName=T_CNS Pin=B?-13
+Added Pin To Net: NetName=T_MOSI Pin=B?-14
+Added Pin To Net: NetName=T_MISO Pin=B?-15
+Added Pin To Net: NetName=T_SCK Pin=B?-16
+Added Pin To Net: NetName=throttle Pin=B?-19
+Added Pin To Net: NetName=yaw Pin=B?-20
+Added Pin To Net: NetName=pitch Pin=B?-21
+Added Pin To Net: NetName=roll Pin=B?-22
+Added Pin To Net: NetName=+5 Pin=B?-27
+Added Pin To Net: NetName=GND Pin=B?-29
+Added Pin To Net: NetName=NetB?_30 Pin=B?-30
+Added Pin To Net: NetName=hover Pin=joystick_L?-B1A
+Added Pin To Net: NetName=GND Pin=joystick_L?-B2A
+Added Pin To Net: NetName=+5 Pin=joystick_L?-H1
+Added Pin To Net: NetName=yaw Pin=joystick_L?-H2
+Added Pin To Net: NetName=GND Pin=joystick_L?-H3
+Added Pin To Net: NetName=+5 Pin=joystick_L?-V1
+Added Pin To Net: NetName=throttle Pin=joystick_L?-V2
+Added Pin To Net: NetName=GND Pin=joystick_L?-V3
+Added Pin To Net: NetName=GND Pin=joystick_R?-B2A
+Added Pin To Net: NetName=+5 Pin=joystick_R?-H1
+Added Pin To Net: NetName=roll Pin=joystick_R?-H2
+Added Pin To Net: NetName=GND Pin=joystick_R?-H3
+Added Pin To Net: NetName=+5 Pin=joystick_R?-V1
+Added Pin To Net: NetName=pitch Pin=joystick_R?-V2
+Added Pin To Net: NetName=GND Pin=joystick_R?-V3
+Added Pin To Net: NetName=GND Pin=NRF?-1
+Added Pin To Net: NetName=T_3V3 Pin=NRF?-2
+Added Pin To Net: NetName=T_CE Pin=NRF?-3
+Added Pin To Net: NetName=T_CNS Pin=NRF?-4
+Added Pin To Net: NetName=T_SCK Pin=NRF?-5
+Added Pin To Net: NetName=T_MOSI Pin=NRF?-6
+Added Pin To Net: NetName=T_MISO Pin=NRF?-7
+Added Pin To Net: NetName=NetB?_30 Pin=Power arduino?-1
+Added Pin To Net: NetName=GND Pin=Power arduino?-3
+Added Pin To Net: NetName=GND Pin=V_reg_int?-1
+Added Pin To Net: NetName=NetB?_30 Pin=V_reg_int?-2
+Added Pin To Net: NetName=GND Pin=V_reg_outt?-1
+Added Pin To Net: NetName=T_3V3 Pin=V_reg_outt?-2
+Added Pin To Net: NetName=NetB?_7 Pin=B?-7
+Added Pin To Net: NetName=NetB?_7 Pin=joystick_R?-B1A
+Added Net: Name=NetB?_7
+Added Member To Class: ClassName=transmitter rev2 Member=Component B? ABX00053
+Added Member To Class: ClassName=transmitter rev2 Member=Component joystick_L? COM-09032
+Added Member To Class: ClassName=transmitter rev2 Member=Component joystick_R? COM-09032
+Added Member To Class: ClassName=transmitter rev2 Member=Component NRF? Header 4X2
+Added Member To Class: ClassName=transmitter rev2 Member=Component Power arduino? Header 3
+Added Member To Class: ClassName=transmitter rev2 Member=Component V_reg_int? Header 2
+Added Member To Class: ClassName=transmitter rev2 Member=Component V_reg_outt? Header 2
+Added Room: Name=transmitter rev2

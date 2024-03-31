@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V_IN Pin=-1
+Removed Pin From Net: NetName=GND Pin=-2
+Removed Pin From Net: NetName=3.3V Pin=-3
+Change Component Designator: OldDesignator= NewDesignator=J?
+Add Component: Footprint Not Found HDR1X3
+Add Pin To Net: Unknown Pin: Pin Buck-1
+Add Pin To Net: Unknown Pin: Pin Buck-2
+Add Pin To Net: Unknown Pin: Pin Buck-3
+Add Class Member: Failed to add class member : Component Buck Header 3
+Added Member To Class: ClassName=transmitter rev2 Member=Component J? 282837-2
+Added Room: Name=transmitter rev2

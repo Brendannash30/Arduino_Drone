@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetB?_30 Pin=Power arduino?-1
+Removed Pin From Net: NetName=GND Pin=Power arduino?-3
+Removed Member From Class: ClassName=transmitter rev2 Member=Power arduino?
+Change Component Designator: OldDesignator= NewDesignator=joystick_L?
+Change Component Designator: OldDesignator= NewDesignator=joystick_R?
+Change Component Designator: OldDesignator= NewDesignator=V_reg_int?
+Change Component Designator: OldDesignator= NewDesignator=V_reg_outt?
+Added Component: Designator=J?(2828372)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/282837-2/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282837&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "10.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-2828372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/282837-2?qs=A%252Bip%252BNCYi6O2H0NGWOeAxg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB?_30 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=transmitter rev2 Member=Component J? 282837-2
+Added Member To Class: ClassName=transmitter rev2 Member=Component joystick_L? COM-09032
+Added Member To Class: ClassName=transmitter rev2 Member=Component joystick_R? COM-09032
+Added Member To Class: ClassName=transmitter rev2 Member=Component V_reg_int? Header 2
+Added Member To Class: ClassName=transmitter rev2 Member=Component V_reg_outt? Header 2
+Added Room: Name=transmitter rev2
